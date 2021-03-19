@@ -1,0 +1,4 @@
+## Hey there!
+I'm Yigit Koc; music producer and computer engineer, currently working on some degree projects and personal projects. I mostly code C/C++, PHP and Javascript. I have a solid knowledge on modern web application design patterns like MVC, RESTFul APIs, front-end development and, my favourite, computer graphics. I work as a full-stack developer with deployments to cloud services, dedicated/VP servers. My special interest in bachelor's degree is computer graphics and game technologies however I'm also interested in web and network security.
+
+In music side of things, I generally produce D&B, House and Trap music but my interests include a wide variety of genres from punk rock to classical msuic. I always loved to work on soundtracks and orchestration. You can find my work on streaming platforms. Here's the list of tracks I produced: [Prod. by Yigit Koc](https://open.spotify.com/playlist/02VcslXWW02ft4scvoZEmV?si=52NHiLYvRhWsqet754tkQg)
